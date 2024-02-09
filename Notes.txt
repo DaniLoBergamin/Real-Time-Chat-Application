@@ -1,0 +1,38 @@
+Criar servidor.js (BACKEND)
+
+1º - npm init -y     - Usado para criar o package.json
+
+2º - npm install express
+
+3º - node --watch ./servidor.js     - Faz com que o servidor seja atualizado
+                                      sempre que houver uma alteração.
+
+websocket
+socket - funcionalidade externa do node. (npm install ...)
+4º - npm install socket.io
+
+Criar script.js na mesma pasta do index.html (FRONTEND)
+
+
+
+
+
+Notes:
+const require XXXXX - mesma função do import XXXXX from XXXXX
+
+
+// FUNÇÃO ANÔNIMA
+function (){
+    
+    return
+}
+
+
+// ARROW FUNCTION
+const XXXXX = () => {
+
+}
+
+
+VITE e LIVE SERVER - Funcionam apenas como servidor.
+
